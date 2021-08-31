@@ -5,8 +5,7 @@ Harold's manager wants him to analyze the last 10 years of historical price data
 Use the following instructions to help Harold analyze the last 10 years of AMD stock data.
 
 ## Instructions
-
-Using the [starter file](Unsolved/returns_over_date_ranges.ipynb), complete the following steps.
+Complete the following steps.
 
   1. Import the necessary libraries and dependencies.
 
@@ -34,6 +33,4 @@ Using the [starter file](Unsolved/returns_over_date_ranges.ipynb), complete the 
 
 Analyze the average daily returns from a numerical standpoint. Which time period has the highest average daily return and which has the lowest? What are the implications of this?
 
----
 
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
