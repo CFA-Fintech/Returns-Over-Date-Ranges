@@ -39,3 +39,7 @@ What are the average daily returns over each date range?
 3 Year = 0.003455 or 3.45%
 5 Year = 0.002304 or 2.30%
 10 Year = 0.001488 or 1.49%
+
+What insights could this provide in regards to wanting to trade AMD stock in the long-term vs. short-term?  
+
+Based on the varying distributions of daily returns over 1 Year, 3 Year, 5 Year, and 10 Year periods, it would appear at though trading AMD in the short-term would more be profitable.
