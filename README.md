@@ -1,4 +1,5 @@
 # Returns Over Date Ranges
+This program reads daily stock data from a CSV, trims extraneous columns, converts date strings to datetime objects, sets the datetimes as the index, and calculates and plots returns for specified date ranges.
 
 Harold's manager wants him to analyze the last 10 years of historical price data for Advanced Micro Devices (AMD), and then plot the daily returns over the last 1-, 3-, 5-, and 10-year periods. His manager wants to see the differences in average daily returns for each time period to determine whether a short- or long-term perspective should be used in prospecting AMD as a potential investment opportunity.
 
