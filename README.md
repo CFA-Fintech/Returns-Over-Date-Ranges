@@ -34,4 +34,8 @@ Complete the following steps.
 
 Analyze the average daily returns from a numerical standpoint. Which time period has the highest average daily return and which has the lowest? What are the implications of this?
 
-
+What are the average daily returns over each date range?
+1 Year = 0.004538 or 4.53%
+3 Year = 0.003455 or 3.45%
+5 Year = 0.002304 or 2.30%
+10 Year = 0.001488 or 1.49%
